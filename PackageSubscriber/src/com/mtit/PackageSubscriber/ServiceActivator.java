@@ -67,8 +67,8 @@ public class ServiceActivator implements BundleActivator {
 			String qt = qtsc.next();
 			if (qt.equalsIgnoreCase("Y")) {
 				System.out.println("Thank you for choosing Ceylon Swimming Club . Have a nice day !");
-				System.out.println("                     Have a nice day !                   	   ");
-				System.out.println("                                                  			   ");
+				System.out.println("                     					                   	   ");
+				System.out.println("           		 Blue Waters Golden Deram          			   ");
 				System.out.println("                                                  			   ");
 				System.out.println("                                                   			   ");
 				System.out.println(																	);
