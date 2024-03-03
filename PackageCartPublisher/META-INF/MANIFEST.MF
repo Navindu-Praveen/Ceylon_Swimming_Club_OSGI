@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: PackageCartPublisher
+Bundle-SymbolicName: PackageCartPublisher
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.mtit.PackageCartPublisher.PackageCartActivator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: CartProducer
+Import-Package: com.mtit.PackagePublisher,
+ org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
+Export-Package: com.mtit.PackageCartPublisher
