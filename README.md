@@ -5,3 +5,6 @@
 
 This repository hosts an OSGi project tailored for the dynamic needs of the Ceylon Swimming Club. Modular components seamlessly manage core functionalities such as Swimming Packages, Subscriber details, Payments, and a user-friendly Shopping Cart. Leveraging OSGi, additional components like Nutrient and Workout Publishers/Subscribers optimize performance and streamline membership registration. This flexible and scalable solution enhances club operations, ensuring a smoother experience for both members and administrators.
 
+
+
+![Screenshot (353)](https://github.com/Navindu-Praveen/Ceylon_Swimming_Club_OSGI/assets/89752602/67073b8c-37eb-42df-9ce6-5f258597b611)
