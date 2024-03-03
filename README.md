@@ -1,4 +1,4 @@
-# Ceylon-Swimming-Club-OSGI
+# Ceylon Swimming Club OSGI
 
 ![ceylon-swimming-club](https://github.com/Navindu-Praveen/ceylon-swimming-club-osgi/assets/89752602/1505e8a2-3a09-434b-9b74-e2e1dce1ee97)
 
