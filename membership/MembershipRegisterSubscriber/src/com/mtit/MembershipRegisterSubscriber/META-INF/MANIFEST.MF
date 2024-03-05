@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: MembershipRegisterSubscriber
+Bundle-SymbolicName: MembershipRegisterSubscriber
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.mtit.MembershipRegisterSubscriber.MembershipActivator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: MembershipRegisterSubscriber
+Import-Package: com.mtit.MembershipRegisterPublisher, org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
